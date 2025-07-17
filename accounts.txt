@@ -1,7 +1,8 @@
 BankSystem.java My Project
+
+//raw data 
 Account Number : 1235,Pin : 1235, Balance : 12000.0
 Account Number : 1236,Pin : 1236, Balance : 12000.0
-Account Number : 818097341,Pin : 3418180, Balance : 100.0
 Account Number : 123456,Pin : 123456, Balance : 100.0
 Account Number : 123456,Pin : 123456, Balance : 100.0
 Account Number : 8180,Pin : 8181, Balance : 14000.0
