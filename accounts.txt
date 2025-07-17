@@ -1,0 +1,24 @@
+BankSystem.java My Project
+Account Number : 1235,Pin : 1235, Balance : 12000.0
+Account Number : 1236,Pin : 1236, Balance : 12000.0
+Account Number : 818097341,Pin : 3418180, Balance : 100.0
+Account Number : 123456,Pin : 123456, Balance : 100.0
+Account Number : 123456,Pin : 123456, Balance : 100.0
+Account Number : 8180,Pin : 8181, Balance : 14000.0
+Account Number : 8180,Pin : 8181, Balance : 2300.0
+Account Number : 8080,Pin : 8080, Balance : 120.0
+Account Number : 8080,Pin : 8080, Balance : 140.0
+Account Number : 8080,Pin : 8080, Balance : 200.0
+Account Number : 2020,Pin : 2020, Balance : 100.0
+Account Number : 6556,Pin : 6556, Balance : 100.0
+Account Number : 6556,Pin : 6556, Balance : 50.0
+Account Number : 6556,Pin : 6556, Balance : 100.0
+Account Number : 5511,Pin : 5511, Balance : 100.0
+Account Number : 5511,Pin : 5511, Balance : 20.0
+Account Number : 1010,Pin : 1010, Balance : 100.0
+Account Number : 1212,Pin : 99, Balance : 1.0E24
+Account Number : 1212,Pin : 99, Balance : 100000.0
+Account Number : 1212,Pin : 99, Balance : 12.0
+Account Number : 122,Pin : 211, Balance : 100.0
+Account Number : 122,Pin : 211, Balance : 10.0
+Account Number : 122,Pin : 211, Balance : 14.0
